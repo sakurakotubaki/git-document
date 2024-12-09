@@ -3,5 +3,7 @@ const person = {
     age: 30
 }
 
+const wakuwaku = "wakuwakusan"
+
 console.log(person.name);
 console.log(person.age);
